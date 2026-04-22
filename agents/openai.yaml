@@ -1,0 +1,4 @@
+interface:
+  display_name: "Thing Agents"
+  short_description: "Coordinate multiple Codex agents through a shared repo workspace"
+  default_prompt: "Use $thing-agents-system to coordinate multiple Codex agents through the repo-root collab-workspace.md file."
